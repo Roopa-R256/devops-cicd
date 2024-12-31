@@ -1,4 +1,11 @@
 1.Jenkin ci/cd pipeline
-![Screenshot 2024-12-27 212346](https://github.com/user-attachments/assets/ec31cfe0-265b-4763-b16e-218c5ae17f54)
+![Screenshot 2024-12-31 220859](https://github.com/user-attachments/assets/21927db8-a5d1-4b52-9d61-cd19010800f7)
+
 2.dependency check
 ![Screenshot 2024-12-31 220648](https://github.com/user-attachments/assets/6a1e5e88-8e39-4987-80aa-c9993fbc3957)
+
+3.Docker image in docker hub
+![Screenshot 2024-12-31 221315](https://github.com/user-attachments/assets/b7fb4a99-361a-4dd8-bc7e-0bd084423456)
+
+4.deploying of website
+![Screenshot 2024-12-31 221420](https://github.com/user-attachments/assets/4f70fc4b-a36b-443f-9f71-b1869b41aa06)
