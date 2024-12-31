@@ -1,4 +1,8 @@
-pipeline {
+
+                    
+            
+                  
+                    pipeline {
     agent any
     tools {
         jdk 'jdk17'
@@ -15,7 +19,7 @@ pipeline {
         }
         stage ("Git Checkout") {
             steps {
-                git branch: 'main', url: 'https://github.com/Roopa-R256/devops-cicd.git' 
+                git branch: 'main', url: 'https://github.com/Roopa-R256/devops-cicd.git'
             }
         }
         stage("Sonarqube Analysis"){
@@ -59,7 +63,7 @@ pipeline {
                 script {
                     withDockerRegistry(credentialsId: 'docker') {
                         sh "docker tag zomato roopar2567/zomato:latest "
-                        sh "docker push roopar257/zomato:latest "
+                        sh "docker push roopar2567/zomato:latest "
                     }
                 }
             }
@@ -100,7 +104,7 @@ pipeline {
                 </body>
                 </html>
             """,
-            to: 'roopargowda21@gmail.com',
+            to: 'dhanigowda10@gmail.com',
             mimeType: 'text/html',
             attachmentsPattern: 'trivy.txt'
         }
