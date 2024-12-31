@@ -1,4 +1,4 @@
-1.Jenkin ci/cd pipeline
+1.Jenkins ci/cd pipeline
 ![Screenshot 2024-12-31 220859](https://github.com/user-attachments/assets/21927db8-a5d1-4b52-9d61-cd19010800f7)
 
 2.dependency check
