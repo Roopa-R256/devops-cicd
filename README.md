@@ -9,3 +9,7 @@
 
 4.deploying of website
 ![Screenshot 2024-12-31 221420](https://github.com/user-attachments/assets/4f70fc4b-a36b-443f-9f71-b1869b41aa06)
+
+5.Using argo cd deploying applications to Kubernetes clusters.
+
+![github uploadingpic](https://github.com/user-attachments/assets/84468e3f-a076-4e4d-971f-4aeb5ff42cdb)
